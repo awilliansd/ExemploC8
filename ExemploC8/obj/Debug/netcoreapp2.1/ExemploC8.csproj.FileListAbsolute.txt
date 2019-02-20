@@ -1,0 +1,11 @@
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\bin\Debug\netcoreapp2.1\ExemploC8.deps.json
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\bin\Debug\netcoreapp2.1\ExemploC8.runtimeconfig.json
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\bin\Debug\netcoreapp2.1\ExemploC8.runtimeconfig.dev.json
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\bin\Debug\netcoreapp2.1\ExemploC8.dll
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\bin\Debug\netcoreapp2.1\ExemploC8.pdb
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.csprojAssemblyReference.cache
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.csproj.CoreCompileInputs.cache
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.AssemblyInfoInputs.cache
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.AssemblyInfo.cs
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.dll
+D:\Development\VisualStudio2019\ExemploC8\ExemploC8\ExemploC8\obj\Debug\netcoreapp2.1\ExemploC8.pdb
