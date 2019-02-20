@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8\\ExemploC8.csproj": {}
+    "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8.csproj": {}
   },
   "projects": {
-    "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8\\ExemploC8.csproj": {
+    "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8\\ExemploC8.csproj",
+        "projectUniqueName": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8.csproj",
         "projectName": "ExemploC8",
-        "projectPath": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8\\ExemploC8.csproj",
+        "projectPath": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8.csproj",
         "packagesPath": "C:\\Users\\awill\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\ExemploC8\\obj\\",
+        "outputPath": "D:\\Development\\VisualStudio2019\\ExemploC8\\ExemploC8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
