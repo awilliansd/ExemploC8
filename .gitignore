@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/ExemploC8/v16
+/ExemploC8/bin/Debug/netcoreapp3.0
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.AssemblyInfoInputs.cache
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.AssemblyInfo.cs
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.pdb
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.dll
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.csprojAssemblyReference.cache
+/ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.csproj.CoreCompileInputs.cache
+/ExemploC8/obj/ExemploC8.csproj.nuget.cache
