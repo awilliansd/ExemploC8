@@ -12,3 +12,6 @@
 /ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.csproj.CoreCompileInputs.cache
 /ExemploC8/obj/ExemploC8.csproj.nuget.cache
 /ExemploC8/obj/Debug/netcoreapp3.0/ExemploC8.csproj.FileListAbsolute.txt
+/ExemploC8/obj
+/ExemploC8/.vscode
+/.vs/ExemploC8/DesignTimeBuild
